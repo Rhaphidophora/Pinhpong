@@ -1,2 +1,2 @@
-# Pinhpong
+# Pingpong
 hra pingpong
